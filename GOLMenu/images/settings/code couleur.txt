@@ -1,0 +1,8 @@
+rouge = fa0000
+magenta = fa00f7
+violet = a500fa
+bleu = 3500fa
+cyan = 00d4fa
+vert = 00dd10
+jaune = fcff00
+orange = ff9600
